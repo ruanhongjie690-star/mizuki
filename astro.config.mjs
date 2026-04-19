@@ -29,7 +29,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 export default defineConfig({
 	site: "https://ruanhongjie690-star.github.io",
 
-	base: "/",
+	base: "/mizuki",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
